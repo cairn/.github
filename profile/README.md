@@ -29,7 +29,7 @@ Some of our cairns mark well-trodden trails:
 
 - **🌸 [floriography](https://github.com/Cairn/floriography)**: *A random flower, its Latin name, its Victorian meaning, and a verse from a real English poem.* In the 1800s, people sent entire love letters using nothing but flowers. We thought that was beautiful, so we built a machine that does the same thing.
 
-- **🌐 [cairn.github.io](https://github.com/Cairn/cairn.github.io)**: *The website you're probably looking at right now.* Procedural double-helix backgrounds, animated pipeline showcases, and a project catalog, all compiled from TypeScript and served as static files, because some stones are best left simple.
+- **🌐 [cairn.github.io](https://github.com/Cairn/cairn.github.io)**: *The official website and entry portal for Cairn Software.* Procedural double-helix backgrounds, animated pipeline showcases, and a project catalog, all compiled from TypeScript and served as static files, because some stones are best left simple.
 
 Others mark paths we're still exploring, private trails through the fog. An autonomous coding agent written in Rust. An AI-native CRM that was, for a brief and terrifying chapter, built entirely by a free language model running through Discord. A security daemon that watches Linux filesystems with the quiet vigilance of a cathedral gargoyle. A museum of bizarre historical events rendered as oil paintings. An app that locks your phone until you finish your tasks. Vinyl stickers, because every expedition needs patches.
 
