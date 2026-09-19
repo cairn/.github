@@ -25,7 +25,7 @@ One stone means nothing. Two stones are an accident. Three stones are a message.
 
 Some of our cairns mark well-trodden trails:
 
-- **[Cairn Code](https://github.com/cairn/cairn)**: *A terminal-based coding agent, built by Cairn.* Download releases, report bugs, and request features in the public repository.
+- **🪨 [Cairn Code](https://github.com/cairn/cairn)**: *A terminal-based coding agent, built by Cairn.* Download releases, report bugs, and request features in the public repository.
 
 - **🌸 [floriography](https://github.com/Cairn/floriography)**: *A random flower, its Latin name, its Victorian meaning, and a verse from a real English poem.* In the 1800s, people sent entire love letters using nothing but flowers. We thought that was beautiful, so we built a machine that does the same thing.
 
